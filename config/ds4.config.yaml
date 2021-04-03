@@ -1,9 +1,10 @@
+enable_button: 7  # R2 button
+enable_turbo_button: 6  # L2 button
+
 axis_linear: 1
 scale_linear: 0.7
-scale_linear_turbo: 1.5
+scale_linear_turbo: 1.0
 
-axis_angular: 0
-scale_angular: 0.4
-
-enable_button: 5 # L2 shoulder button
-enable_turbo_button: 6 # R2 shoulder button
+axis_angular: 2
+scale_angular: 0.7
+scale_angular_turbo: 1.0
